@@ -1,0 +1,45 @@
+Server:		192.168.146.2
+Address:	192.168.146.2#53
+
+Non-authoritative answer:
+Name:	www.isl.com
+Address: 212.74.123.24
+
+Server:		192.168.146.2
+Address:	192.168.146.2#53
+
+Non-authoritative answer:
+Name:	www.isl.com
+Address: 212.74.123.24
+
+Server:		192.168.146.2
+Address:	192.168.146.2#53
+
+Non-authoritative answer:
+Name:	connectwise.isl.com
+Address: 80.40.125.36
+
+Server:		192.168.146.2
+Address:	192.168.146.2#53
+
+Non-authoritative answer:
+Name:	monitor.isl.com
+Address: 212.74.123.55
+
+Server:		192.168.146.2
+Address:	192.168.146.2#53
+
+Non-authoritative answer:
+Name:	support.isl.com
+Address: 217.145.128.100
+
+Server:		192.168.146.2
+Address:	192.168.146.2#53
+
+** server can't find vpn.isl.com: NXDOMAIN
+
+Server:		192.168.146.2
+Address:	192.168.146.2#53
+
+** server can't find vps.isl.com: NXDOMAIN
+
